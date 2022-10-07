@@ -1,0 +1,22 @@
+COMP2130
+COMP2130_Estuds.txt
+3
+Parcial 1
+100
+33
+Parcial 2
+100
+33
+Parcial 3
+100
+33
+Alvarado Perez, Juan
+234760987
+95
+50
+Martinez Ramos, Tito
+879765638
+50
+Rivera Marquez, Maria
+356761298
+50

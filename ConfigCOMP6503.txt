@@ -1,0 +1,22 @@
+COMP6503
+COMP6503_Estuds.txt
+3
+Parcial1
+100
+30
+Parcial2
+100
+30
+Parcial3
+100
+30
+Perez Class, Juana
+768329123
+100
+Matos Maldonado, Luis
+412768564
+80
+100
+Rios Monte, Lia
+423678341
+100
